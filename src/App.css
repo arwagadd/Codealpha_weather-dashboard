@@ -47,6 +47,10 @@ border: 2px solid black;
 .header-edit{
   margin-bottom: 60px;
 }
+.search-edit{
+  padding: 10px;
+  border-radius: 20px ;
+}
 
 @keyframes App-logo-spin {
   from {
